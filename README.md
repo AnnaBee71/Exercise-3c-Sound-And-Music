@@ -10,7 +10,8 @@ Move the paddle using the W and A. Help the ball break all the bricks before you
 
 
 ## Implementation
-
+- comet trail
+- sound effects
 Built using Unity 2022.3.45f
 
 ## References
@@ -26,4 +27,4 @@ Adding a face, Comet trail, Music and Sound, Shaders, etc.
 
 ## Created by 
 
-Nathan Mishler
+Anna Banks
